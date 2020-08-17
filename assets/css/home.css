@@ -1,0 +1,50 @@
+* {
+    font-family: 'Alata', sans-serif;
+}
+
+.body {
+    top: 0;
+    left: 0;
+    margin: 0 0;
+}
+
+.div-status {
+    text-align: center;
+    font-size: 30px;
+}
+
+.div-links {
+    text-align: center;
+}
+
+.text-secret {
+    font-size: 22px;
+}
+
+.link-secret {
+    font-size: 18px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.text-login {
+    font-size: 22px;
+    margin-top: 3%;
+}
+
+.link-login {
+    font-size: 18px;
+    color: blue;
+    text-decoration: underline;
+}
+
+.text-logout {
+    font-size: 22px;
+    margin-top: 3%;
+}
+
+.link-logout {
+    font-size: 18px;
+    color: blue;
+    text-decoration: underline;
+}

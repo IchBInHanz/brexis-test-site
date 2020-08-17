@@ -1,0 +1,39 @@
+* {
+    font-family: 'Alata', sans-serif;
+}
+
+.body {
+    top: 0;
+    left: 0;
+    margin: 0 0;
+    text-align: center;
+}
+
+.title {
+    font-size: 30px;
+}
+
+.user {
+    font-size: 22px;
+}
+
+.input-username {
+    margin-top: 3%;
+    font-size: 22px;
+    padding: 7px 9px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+}
+
+.input-password {
+    font-size: 22px;
+    padding: 7px 9px;
+    border: 1px solid #000000;
+    border-radius: 3px;
+}
+
+.submit {
+    font-size: 22px;
+    padding: 7px 9px;
+    width: 140px;
+}
